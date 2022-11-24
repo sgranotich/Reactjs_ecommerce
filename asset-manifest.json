@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sgranotich/Reactjs_ecommerce/static/css/main.ea28afb7.css",
+    "main.js": "/sgranotich/Reactjs_ecommerce/static/js/main.724576a8.js",
+    "static/js/787.eee317f5.chunk.js": "/sgranotich/Reactjs_ecommerce/static/js/787.eee317f5.chunk.js",
+    "index.html": "/sgranotich/Reactjs_ecommerce/index.html",
+    "main.ea28afb7.css.map": "/sgranotich/Reactjs_ecommerce/static/css/main.ea28afb7.css.map",
+    "main.724576a8.js.map": "/sgranotich/Reactjs_ecommerce/static/js/main.724576a8.js.map",
+    "787.eee317f5.chunk.js.map": "/sgranotich/Reactjs_ecommerce/static/js/787.eee317f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea28afb7.css",
+    "static/js/main.724576a8.js"
+  ]
+}
